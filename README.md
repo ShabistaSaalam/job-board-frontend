@@ -34,13 +34,19 @@ cd job-board-frontend/
 
 2. Install dependencies:
 
-```npm install```
+```bash
+npm install
+```
 
-3.Create a .env file in the frontend folder with the following content:
+3. Create a .env file in the frontend folder with the following content:
 
-```VITE_API_BASE_URL=http://localhost:5000```
+```bash
+VITE_API_BASE_URL=http://localhost:5000
+```
 
-4.Running the Development Server
+4. Running the Development Server
 
-```npm run dev```
+```bash
+npm run dev
+```
 Open http://localhost:5173 in your browser.
