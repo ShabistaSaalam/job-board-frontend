@@ -30,16 +30,17 @@ React + TypeScript frontend for the Job Board Mini-App.
 ```bash
 git clone https://github.com/shabistasaalam/job-board-frontend.git
 cd job-board-frontend/
+```
 
 2. Install dependencies:
 
-npm install
+```npm install```
 
 3.Create a .env file in the frontend folder with the following content:
 
-VITE_API_BASE_URL=http://localhost:5000
+```VITE_API_BASE_URL=http://localhost:5000```
 
 4.Running the Development Server
 
-npm run dev
+```npm run dev```
 Open http://localhost:5173 in your browser.
